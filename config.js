@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Em à!',
-    introDesc: `Chẳng hiểu vì sao mà anh lại thích em nữa, hnay a có cái này tặng em nè!!`,
+    introDesc: `Chẳng hiểu vì sao mà anh lại thích em nữa, hnay a có cái này tặng em nè😙!!`,
     btnIntro: 'Ấn vô đây nha',
     title: 'Từ lần đầu tiên ta đi bên nhau anh đã biết tim mình đánh rơi rồi!!',
     desc: 'Từ lần đầu tiên môi hôn trao nhau em đã biết không thể yêu thêm ai',
